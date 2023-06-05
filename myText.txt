@@ -1,1 +1,4 @@
 Hello git
+
+[Git sheeetchit]
+https://training.github.com/downloads/ko/github-git-cheat-sheet/
